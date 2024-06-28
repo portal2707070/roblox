@@ -20,4 +20,4 @@ while true do
    send("i are noob")
    wait(delay)
    send("loool")
-   end
+end
