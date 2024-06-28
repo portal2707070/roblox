@@ -1,4 +1,3 @@
-
 local delay = 0.1
 function send(text)
    local A_delay = text
